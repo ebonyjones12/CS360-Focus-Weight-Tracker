@@ -85,10 +85,3 @@ Focus is an Android mobile application designed to help users track their weight
 
 ### Author
 **Ebony Jones**  
-Southern New Hampshire University  
-CS 360 - Mobile Architecture & Programming  
-February 2026
-
-### Project Status
-**Project Two**: UI Design - ✅ Complete  
-**Project Three**: Full Implementation - 🔄 In Progress
