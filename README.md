@@ -26,7 +26,10 @@ Focus is an Android mobile application designed to help users track their weight
 
 ### Technical Implementation
 
-#### Screens Implemented
+<img width="773" height="698" alt="Screenshot 2026-02-07 at 7 28 57 PM" src="https://github.com/user-attachments/assets/d6852866-1207-45dc-b66f-bcb255f30df1" />
+
+<img width="715" height="624" alt="Screenshot 2026-02-07 at 7 29 03 PM" src="https://github.com/user-attachments/assets/2e94effb-456c-4e0d-8ad8-154fed547f78" />
+
 1. **Login Screen** (`activity_login.xml`)
    - Username input field
    - Password input field (text obscured)
